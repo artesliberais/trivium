@@ -1,0 +1,83 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Alegreya Sans SC Light";
+    font-style: italic;
+    font-weight: 300;
+    src: url(OEBPS/font_rsrc8CJ.ttf)
+    }
+@font-face {
+    font-family: "Cronos Pro Light";
+    font-style: italic;
+    font-weight: 300;
+    src: url(OEBPS/font_rsrc8CP.ttf)
+    }
+@font-face {
+    font-family: "Cronos Pro Light";
+    font-weight: 300;
+    src: url(OEBPS/font_rsrc8CR.ttf)
+    }
+@font-face {
+    font-family: "Cronos Pro";
+    font-style: italic;
+    src: url(OEBPS/font_rsrc8CC.ttf)
+    }
+@font-face {
+    font-family: "Cronos Pro";
+    src: url(OEBPS/font_rsrc8CF.ttf)
+    }
+@font-face {
+    font-family: "Fairfield LH 55 Caption";
+    font-weight: 500;
+    src: url(OEBPS/font_rsrc8CN.ttf)
+    }
+@font-face {
+    font-family: "Fairfield LH 55";
+    font-weight: 500;
+    src: url(OEBPS/font_rsrc8CB.ttf)
+    }
+@font-face {
+    font-family: "Fairfield LH";
+    font-style: italic;
+    font-weight: 200;
+    src: url(OEBPS/font_rsrc8C8.ttf)
+    }
+@font-face {
+    font-family: "Fairfield LH";
+    font-weight: 200;
+    src: url(OEBPS/font_rsrc8C9.ttf)
+    }
+@font-face {
+    font-family: "Rotis Sans Serif Std";
+    font-weight: bold;
+    src: url(OEBPS/font_rsrc8CK.ttf)
+    }
+@font-face {
+    font-family: "Sabon LT Std";
+    src: url(OEBPS/font_rsrc8CH.ttf)
+    }
+@font-face {
+    font-family: "Weiss BT";
+    font-style: italic;
+    src: url(OEBPS/font_rsrc8CD.ttf)
+    }
+@font-face {
+    font-family: "Weiss BT";
+    font-weight: bold;
+    src: url(OEBPS/font_rsrc8CA.ttf)
+    }
+@font-face {
+    font-family: "Weiss BT";
+    src: url(OEBPS/font_rsrc8CG.ttf)
+    }
+@font-face {
+    font-family: Cinzel;
+    src: url(OEBPS/font_rsrc8CE.ttf)
+    }
+@font-face {
+    font-family: Minion;
+    font-style: italic;
+    src: url(OEBPS/font_rsrc8CM.ttf)
+    }
