@@ -1,0 +1,77 @@
+## Prefácio
+
+Para entender O Trivium
+
+No Brasil, nunca se comemora em excesso o lançamento de uma obra fundacional como O Trivium, da irmã Miriam Joseph (1898-1982), já que não é todo dia que a indústria editorial nacional se arrisca a penetrar na pretensa selva escura do Medievo. O desprezo da intelectualidade nacional pelos assuntos da Idade Média é a razão da esquelética oferta por aqui de obras escolásticas, comparadas por Erwin Panofsky [\[10\]](#p10) <a id='d10'/></a> às próprias catedrais góticas, e a explicação do nosso tímido vol d’oiseau por sobre os fundamentos civilizatórios do Ocidente, entre eles a própria ideia de educação no sentido de Paideia, de formação.
+
+Curiosamente, nada deveria parecer mais enigmático ao cidadão brasileiro medianamente informado, que vive por aí a falar em idade das trevas, do que o escandaloso fiasco deste monstrengo chamado sistema nacional de ensino. No Brasil, depois de sequestrarmos as crianças de suas casas pelo menos cinco horas por dia e gastarmos com elas um quarto do orçamento, descobrimos, oito anos depois, atônitos, que a maioria não sabe ler... E isto apesar de todas as siglas atrás das quais se esconde a bilionária incompetência pública.
+
+O enigma da baixíssima eficiência do ensino, que não é fenômeno exclusivamente brasileiro, foi em parte resolvido na década de 1970 pelo padre austríaco Ivan Illich (1926-2002), que propôs a sociedade sem escolas tout court.[\[11\]](#p11) <a id='d11'/></a> A tese de Illich, cujo mérito avulta na proporção direta do fracasso educacional geral, é que o sistema de ensino não tem por objetivo realmente educar, mas somente distribuir socialmente os indivíduos, por meio do ritual de certificados e diplomas. A escola formal, esta que Illich deseja suprimir, não é um meio de educação, mas um meio de “promoção” social, fato que as pessoas humildes revelam perceber quando insistem com o Joãozinho: estude, meu filho, estude...
+
+Como se vê, vamos decifrando o mistério à medida que desprezamos a falsa equação entre ensino e educação. O sistema de ensino não produz educação, porque está ocupado demais em produzir documentos. Educação terá de ser buscada preferencialmente alhures, fora do sistema. É claro, sempre haverá um professor ou outro que, valendo-se da apatia do sistema, dará, por sua própria conta, aulas magistrais e educará de fato, contanto que seus alunos o desejem, o que, obviamente, nem sempre é o caso.
+
+Temos aí uma espécie de lei geral com correlação inversa: a capacidade de educar alguém é inversamente proporcional à oficialidade do ato e diretamente proporcional à liberdade de adesão do educando. A educação prospera mais quando é procurada livremente. Este é o sentido da palavra “liberal” (de liber, livre) nas Sete Artes “liberais” da Idade Média, que eram ensinadas ao homem livre, por oposição às artes “iliberais”, ensinadas ao homem “preso”, controlado por guildas. Estas corporações de ofícios faziam grosseiramente o papel do sistema de ensino moderno, regulando privilégios econômicos e sociais.
+
+Não só não existiu na Idade Média nenhuma obrigação estatal de ir à escola para aprender as Sete Artes, como ninguém imaginava usar este conhecimento como alavanca para forçar os ferrolhos do mercado de trabalho. Para ficar mais claro, com a licença da comparação, a diferença entre o ensino e a educação é a mesma que há entre a polícia e o detetive particular do cinema. A primeira tem a obrigação de desvendar o crime, e por isso precisa parecer que o está resolvendo e, enquanto tem todo esse trabalho de fingir, só consegue esclarecer uns poucos casos pingados. O detetive resolve todos porque está aí para isso mesmo e vai até as últimas consequências, acabando sempre com o olho roxo.
+
+Tamanha despretensão econômica certamente soa estranhíssima aos modernos, que julgam tudo sob o ponto de vista da quantidade e imaginam que entre a educação medieval e a moderna só exista uma diferença de quantum. Na verdade, a diferença é de tal dimensão qualitativa que, no contrapé desse engano, perdeu-se de vista a própria ideia de educação, hoje entendida como adestramento coletivo de modismos politicamente corretos (a tal da “escola cidadã”). Nos tempos das “trevas”, educação era simplesmente ex ducare, isto é, retirar o sujeito da gaiolinha em que está metido e apresentar-lhe o mundo. Como já se disse, nem sempre o que vem depois é melhor.
+
+A primeira condição para entender O Trivium da irmã Miriam Joseph, editado pela primeira vez no Brasil na corajosa e esmerada tradução de Henrique Paul Dmyterko, é entender que ensinar retórica, gramática e lógica fazia parte de um verdadeiro projeto de educação de que não há nada equivalente no mundo moderno.
+
+As Sete Artes Liberais da Idade Média, divididas em trivium (retórica, gramática e lógica) e quadrivium (aritmética, música, geometria e astronomia), tomaram esta forma por volta do ano oitocentos, quando se inaugurou o império de Carlos Magno, primeira tentativa de reorganizar o Império Romano, e são o resultado de lenta maturação a partir de fontes pitagóricas e possivelmente anteriores, com decisivas influências platônicas, aristotélicas e agostinianas e complementações metodológicas de Marciano Capela (início do século V), Severino Boécio (480-524) e Flávio Cassiodoro (490-580), até chegar a Alcuíno (735-804), o organizador da escola carolíngia em Aix-en-Chapelle.
+
+Como essas Sete Artes estão vinculadas a conhecimentos tradicionais, apresentam grandes simetrias com outros aspectos da estrutura da realidade, permitindo, por exemplo, analogia com o sentido simbólico dos planetas, relacionando a retórica com Vênus; a gramática com a Lua; a lógica com Mercúrio; a aritmética com o Sol; a música com Marte; a geometria com Júpiter e a astronomia com Saturno. Que ninguém pense, portanto, que haja arbitrariedade na concepção septenária do sistema. Simbolicamente, o sete representa, como ensina Mário Ferreira dos Santos,[\[12\]](#p12) <a id='d12'/></a> “a graduação qualitativa do ser finito”, isto é, um salto qualitativo, uma libertação, como um sétimo dia de criação que abre um mundo de possibilidades. Como se poderia representar a educação melhor que por esse simbolismo?
+
+O estudante das Artes começava a vida escolar aos quatorze anos (tardíssimo para os padrões modernos, mas não sem alguma sabedoria), participava de um regime de estudo flexível com grande liberdade individual e vencia em primeiro lugar os “três caminhos” do trivium, mais tarde descritos por Pedro Abelardo (1079-1142) como os três componentes da ciência da linguagem. Para Hugo de São Vítor (1096-1141), no Didascálicon, “a gramática é a ciência de falar sem erro. A dialética[\[13\]](#p13) <a id='d13'/></a> é a disputa aguda que distingue o verdadeiro do falso. A retórica é a disciplina para persuadir sobre tudo o que for conveniente”.[\[14\]](#p14) <a id='d14'/></a> A irmã Miriam Joseph, muito acertadamente, diz no primeiro capítulo que “o trivium inclui aqueles aspectos das artes liberais pertinentes à mente, e o quadrivium, aqueles aspectos das artes liberais pertinentes à matéria”. No entanto, ninguém expressou com mais contundência o valor das Artes como Honório de Autun (ca. 1080-1156), com a famosa fórmula: “O exílio do homem é a ignorância, sua pátria a ciência \[...\] e chega-se a esta pátria através das artes liberais, que são igualmente cidades-etapas”.[\[15\]](#p15) <a id='d15'/></a>
+
+De fato, uma vez vencido o desafio da mente, o trivium, o estudante medieval passava ao quadrivium, o mundo das coisas, e, dele, lá pelos vinte anos, se pudesse e quisesse, para a educação liberal superior, que, na época, se resumia a teologia, direito canônico e medicina, as faculdades das universidades do século XIII. As profissões de ordem artesanal, como construção civil, não eram liberais, mas associadas a corporações de ofícios, como a dos mestres-construtores, às vezes com conotações iniciáticas (maçons).
+
+O trivium, de fato, funcionava como a educação medieval, ensinando as artes da palavra (sermocinales), a partir das quais é possível tratar os assuntos associados às coisas e às artes superiores. A escolástica, o mais rigoroso método filosófico já concebido, e que floresceria sobretudo no século XII, foi construída sobre os alicerces do trivium: a gramática zela para que todos falem da mesma coisa, a dialética problematiza o objeto de discussão (disputatio), e a lógica é antídoto certo contra a verborragia vazia, o conhecido fumus sine flamma.
+
+A expressão universitária americana master-of-Arts guarda, até hoje, resquícios dessa graduação inicial, base dos estudos superiores, que convergiam para o doutorado (no sentido medieval, não no sentido moderno). A faculdade de Artes liberais, frequentemente associada às universidades medievais, sem ser um curso superior propriamente dito, era o que lhe dava sustentação e de certo modo bastava-se a si própria. Explica Jacques Le Goff:
+
+Lá \[na faculdade de Artes\] é que se tinha a formação de base, daquele meio é que nasciam as discussões mais apaixonadas, as curiosidades mais atrevidas, as trocas mais fecundas. Lá é que podiam ser encontrados os clérigos pobres que não chegaram até a licença, muito menos ao custoso doutorado, mas que animavam os debates com suas perguntas inquietantes. Lá é que se estava mais próximo do povo das cidades, do mundo exterior, que se ocupava menos em obter prebendas e em desagradar à hierarquia eclesiástica, que era mais vivo o espírito leigo, que se era mais livre. Lá é que o aristotelismo produziu todos os seus frutos. Lá é que se chorou como uma perda irreparável a morte de Tomás de Aquino. Foram os artistas que, numa carta comovedora, reclamaram da ordem dominicana os despojos mortais do grande doutor.[\[16\]](#p16) <a id='d16'/></a>
+
+Cada elemento do trivium contém potencialmente as habilidades filosóficas da vida intelectual madura. Esta é a razão pela qual o projeto educacional da irmã Miriam, profundamente influenciado pelo filósofo americano Mortimer Adler (1902-2001), foi concebido como preparação de estudantes para a vida universitária, fosse qual fosse o curso. Em 1935, quando incorporado ao currículo do Saint Mary’s College, o curso “The Trivium” era exigido de todos os calouros e durava dois semestres, com aulas cinco vezes por semana. Santo Agostinho (354-430), mil e seiscentos anos antes, havia feito, a seu modo, a mesma tentativa de preparação intelectual com sua Doutrina Cristã,[\[17\]](#p17) <a id='d17'/></a> uma espécie de iniciação intelectual para estudar as Escrituras.
+
+Na prática e salvo engano, no mundo moderno a única tentativa de recuperar o espírito do trivium foi a parceria da irmã Miriam Joseph com Mortimer Adler. Este querendo restaurar a cultura clássica na universidade americana, e aquela preparando o aluno para poder debater os conteúdos dos grandes autores com precisão gramatical e coerência, concordando com Heráclito,[\[18\]](#p18) <a id='d18'/></a> que pregava a seus alunos a impossibilidade da retórica sem a lógica.
+
+O mundo moderno, Brasil incluído, hipnotizado pelo esquema do ensino universal, perdeu completamente de vista a conotação individual e “iniciática” que é a alma da verdadeira educação e a essência do trivium. Mesmo nos Estados Unidos, a experiência da irmã Miriam Joseph ficou restrita a pequeno grupo de universidades católicas. Por aqui, quase não há interlocutores capacitados para debater o assunto.
+
+Mesmo sem pretender tratar aqui fenômeno tão complexo, registre-se que o sistema educacional tradicional entrou em declínio já no século XIV, lentamente minado por fora e por dentro, sob a orquestração do nascente “humanismo”, até desabar no Renascimento, pela mão do teólogo e místico tcheco Jean Amos Comenius (1592-1670), que, em sua principal obra, Magna Didactica, não apenas faz pouco das Sete Artes como estabelece as bases das pedagogias modernas, desenhadas para fins de ensino e não de educação. Entre outras coisas, Comenius inventou o jardim da infância. Na advertência ao leitor, que abre sua Magna Didactica, o teólogo rascunha o plano mestre de seu admirável mundo novo pedagógico:
+
+Ouso prometer uma grande didática, uma arte universal que permita ensinar a todos com resultado infalível; ensinar rapidamente, sem preguiça ou aborrecimento para alunos e professores; ao contrário, com o mais vivo prazer. Dar um ensino sólido, sobretudo não superficial ou formal, o qual conduza os alunos à verdadeira ciência, aos modos gentis e à generosidade de coração. Enfim, eu demonstro tudo isso a priori, com base na natureza das coisas. Assim como de uma nascente correm os pequenos riachos que vão unir-se no fim num único rio, assim também estabeleci uma técnica universal que permite fundar escolas universais.[\[19\]](#p19) <a id='d19'/></a>
+
+
+Mesmo uma análise rápida desta declaração descobrirá nela o DNA da pedagogia moderna nas suas características estruturantes: triunfalismo, epicurismo, massificação do ensino, uniformização do conteúdo, automatização da aprendizagem e insensibilidade às individualidades. A Unesco, naturalmente, homenageia Comenius com sua maior condecoração. Se a miséria do ensino moderno tem pai, o seu nome é Comenius. E se alguma coisa vai na direção contrária do trivium é esta “natureza das coisas” de onde vêm estas “escolas universais” e cujo resultado até agora parece ter-se limitado a produzir milhões de indivíduos idiotizados.
+
+Visto desta perspectiva histórica, O Trivium, este tesouro redescoberto pela irmã Miriam Joseph, é mais que um manual para desenvolver a inteligência, é uma luz brilhando na escuridão dos abismos em que atiramos a verdadeira educação.
+
+José Monir Nasser (1957-2013 – In memoriam)
+
+Professor, escritor e autor de O Brasil que Deu Certo e A Economia do Mais (Tríade Editora). Durante anos, ministrou no Espaço Cultural É Realizações suas “Expedições pelo Mundo da Cultura”, uma série conferências sobre grandes livros da literatura ocidental, inspirado
+pelo modelo de educação liberal proposto por Mortimer Adler.
+
+---
+
+# teste
+
+<a id='p10'/></a> [\[10\]](#d10) Erwin Panofsky, Arquitetura Gótica e Escolástica. São Paulo, Martins Fontes, 1991.
+
+<a id='p11'/></a> [\[11\]](#d11) Ivan Illich, Sociedade sem Escolas. Trad. Lúcia Mathilde Endlich Orth. Petrópolis, Vozes, 1985.
+
+<a id='p12'/></a> [\[12\]](#d12) Mário Ferreira dos Santos, Tratado de Simbólica. São Paulo, É Realizações, 2007, p. 240.
+
+<a id='p13'/></a> [\[13\]](#d13) Depois da redescoberta da “nova lógica” de Aristóteles, no séc. XII, passou a denominar-se lógica.
+
+<a id='p14'/></a> [\[14\]](#d14) Hugo de São Vítor, Didascálicon. Petrópolis, Vozes, 2001.
+
+<a id='p15'/></a> [\[15\]](#d15) Em Jacques Le Goff, Os Intelectuais na Idade Média. Rio de Janeiro, José Olympio, 2003, p. 84.
+
+<a id='p16'/></a> [\[16\]](#d16) Ibid., p. 144-45.
+
+<a id='p17'/></a> [\[17\]](#d17) Santo Agostinho, A Doutrina Cristã. Trad. Nair de Assis Oliveira, C.S.A. 2. Ed. São Paulo, Paulus, 2007. (Coleção Patrística)
+
+<a id='p18'/></a> [\[18\]](#d18) Ernesto Sábato, Heterodoxia. Campinas, Papirus, 1993, p. 120.
+
+<a id='p19'/></a> [\[19\]](#d19) Jean-Marc Berthoud, Jean Amos Comenius et les Sources de l’Idéologie Pédagogique. Tradução de José Monir Nasser.
