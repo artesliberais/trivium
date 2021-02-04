@@ -8,34 +8,31 @@ Sumário:
 
 [Prefácio: (José Monir Nasser)](Trivium_md/002_Prefacio.md)
 
+[Nota do tradutor](Trivium_md/003_nota_do_tradutor.md)
 
-Nota do tradutor:
-
-Introdução à edição americana de 2002:
-
-Introdução à edição americana de 2002:
+[Introdução à edição americana de 2002](Trivium_md/004_Introducao_edicao_2002.md)
 
 [1. As artes liberais](Trivium_md/010_as_artes_liberais.md)
 
-2. Natureza e função da linguagem
+1. Natureza e função da linguagem
 
-3. Gramática geral
+2. Gramática geral
 
-4. Os termos e seus equivalentes gramaticais: definição e divisão
+3. Os termos e seus equivalentes gramaticais: definição e divisão
 
-5. Proposições e sua expressão gramatical
+4. Proposições e sua expressão gramatical
 
-6. Relações de proposições simples
+5. Relações de proposições simples
 
-7. O silogismo simples
+6. O silogismo simples
 
-8. Relações de proposições hipotéticas e disjuntivas
+7. Relações de proposições hipotéticas e disjuntivas
 
-9.  Falácias
+8.  Falácias
 
-10. Breve sumário da indução
+9.  Breve sumário da indução
 
-11. Composição e leitura
+10. Composição e leitura
 
 Irmã Miriam Joseph (1898-1982)
 
