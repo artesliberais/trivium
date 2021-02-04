@@ -54,7 +54,7 @@ pelo modelo de educação liberal proposto por Mortimer Adler.
 
 ---
 
-# teste
+## NOTAS
 
 <a id='p10'/></a> [\[10\]](#d10) Erwin Panofsky, Arquitetura Gótica e Escolástica. São Paulo, Martins Fontes, 1991.
 
