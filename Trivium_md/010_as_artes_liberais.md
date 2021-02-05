@@ -108,8 +108,9 @@ A gramática trata da coisa tal como ela é simbolizada.
 A retórica trata da coisa tal como ela é comunicada.
 
 ---
-
 1-2. Linguagem e realidade
+
+---
 
 > ILUSTRAÇÃO: Relação entre a metafísica e as artes da linguagem
 
