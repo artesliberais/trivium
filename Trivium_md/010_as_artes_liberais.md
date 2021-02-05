@@ -9,24 +9,23 @@ As artes liberais denotam os sete ramos do conhecimento que iniciam o jovem numa
 O trivium[\[21\]](#p21) <a id='d21'/></a> inclui aqueles aspectos das artes liberais pertinentes à mente, e o quadrivium, aqueles aspectos das artes liberais pertinentes à matéria. Lógica, gramática e retórica constituem o trivium; aritmética, música, geometria e astronomia constituem o quadrivium. A lógica é a arte de pensar; a gramática, a arte de inventar símbolos e combiná-los para expressar pensamento; e a retórica, a arte de comunicar pensamento de uma mente a outra, ou de adaptar a linguagem à circunstância. A aritmética, ou teoria do número, e a música, uma aplicação da teoria do número (a medição de quantidades discretas em movimento), são as artes da quantidade descontínua ou número. A geometria, ou teoria do espaço, e a astronomia, uma aplicação da teoria do espaço, são as artes da quantidade contínua ou extensão.
 
 ---
-O trivium: As três artes da linguagem pertinentes à mente
+
+##### O trivium: As três artes da linguagem pertinentes à mente
 |           |                                      |
 | --------- | ------------------------------------ |
 | Lógica    | arte de pensar                       |
 | Gramática | arte de inventar e combinar símbolos |
 | Retórica  | arte de comunicar                    |
 
-O quadrivium: As quatro artes da quantidade pertinentes à matéria
+##### O quadrivium: As quatro artes da quantidade pertinentes à matéria
 
-\
-Quantidade descontínua ou número
+###### Quantidade descontínua ou número
 |            |                               |
 | ---------- | ----------------------------- |
 | Aritmética | teoria do número              |
 | Música     | aplicação da teoria do número |
 
-\
-Quantidade contínua ou extensão
+###### Quantidade contínua ou extensão
 |            |                               |
 | ---------- | ----------------------------- |
 | Geometria  | teoria do espaço              |
