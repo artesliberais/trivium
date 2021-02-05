@@ -23,7 +23,7 @@
 
 Modelo
 ```
-##### Titulo de inicio de capitulo
+##### Descricao do estilo
 \
 Estilo:\
 `## {texto}`
@@ -33,9 +33,9 @@ Exemplo em livro:\
 Figura x
 
 Escrita em markdown:
-```
+\```
 ## xxxxxxxxxxxxxxxx
-```
+\```
 
 Formatado via markdown:\
 ![](img/00x.jpg)\
