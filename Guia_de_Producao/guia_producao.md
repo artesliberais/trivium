@@ -16,12 +16,12 @@
 - Observe o texto markdown que automaticamente aparecerá no campo 'output'
 - No campo 'Output', clique no botão 'Copy to Clipboard', que terá o mesmo efeito que selecionar todo o texto markdown e digitar 'Ctrl+C'.
 
-### Fase editorial
+## Fase editorial
 - Usando um processador de texto preferencialmente com suporte à renderização de arquivos markdown, cole o texto markdown gerado. Recomenda-se utilizar o software VSCode habilitado com extensão 'Markdown All in One'.
 - A formatação deverá ser completamente revista, seguindo um padrão de estilos.
 - No caso do Trivium, é seguido um guia de estilos.
 
-#### Guia de Estilos
+## Guia de Estilos
 
 Modelo
 ```
@@ -44,25 +44,25 @@ Formatado via markdown:\
 Figura x
 ```
 
-##### Titulo de inicio de capitulo
+### Titulo de inicio de capitulo
 \
-Estilo:\
+#### Estilo:\
 `## {texto}`
 
-Exemplo em livro:\
+#### Exemplo em livro:\
 ![](img/001.jpg)\
 Figura 1
 
-Escrita em markdown:
+#### Escrita em markdown:
 ```
 ## 1. AS ARTES LIBERAIS
 ```
 
-Formatado via markdown:\
+#### Formatado via markdown:\
 ![](img/002.jpg)\
 Figura 2
 
-##### Titulo grande em maiusculo
+### Titulo grande em maiusculo
 \
 Estilo:\
 `### {texto}`
