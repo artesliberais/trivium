@@ -40,4 +40,5 @@ Irmã Miriam Joseph (1898-1982)
 
 [Comprar](https://www.amazon.com.br/Trivium-Miriam-Joseph/dp/8588062607) | [Fazer Download](http://libgen.rs/search.php?req=trivium&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
-
+\
+Quer ajudar na produção desta versão online? [Leia o guia](Guia_de_Producao/guia_producao.md).
