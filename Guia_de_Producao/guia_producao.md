@@ -98,22 +98,139 @@ Formatado via markdown:\
 ![](img/006.jpg)\
 Figura 6
 
-##### Titulo numerado. 1-1, 1-2...\
-5 #
+##### Titulo pequeno capitulado negrito
+\
+Estilo:\
+5#\
+`##### {texto}`
 
-##### Titulo pequeno maiusculo\
-5 #
+Exemplo em livro:\
+![](img/007.jpg)\
+Figura 7
 
-##### Titulo pequeno capitulado\
-6 #
+Escrita em markdown:
+```
+##### O trivium: As três artes da linguagem pertinentes à mente
+```
+
+Formatado via markdown:\
+![](img/008.jpg)\
+Figura 8
+
+
+##### Titulo numerado. 1-1, 1-2...
+\
+Estilo:\
+5#\
+`##### {texto}`
+
+Exemplo em livro:\
+![](img/009.jpg)\
+Figura 9
+
+Escrita em markdown:
+```
+##### 1-1. As sete artes liberais
+```
+
+Formatado via markdown:\
+![](img/010.jpg)\
+Figura 10
+
+
+##### Titulo pequeno maiusculo
+\
+Estilo:\
+5#\
+`##### {texto}`
+
+Exemplo em livro:\
+![](img/013.jpg)\
+Figura 13
+
+Escrita em markdown:
+```
+##### SÍMBOLOS: ESPECIAIS OU COMUNS
+```
+
+Formatado via markdown:\
+![](img/0xx.jpg)\
+Figura x
+
+
+##### Titulo pequeno capitulado
+\
+Estilo:\
+6#\
+`###### {texto}`
+
+Exemplo em livro:\
+![](img/015.jpg)\
+Figura 15
+
+Escrita em markdown:
+```
+###### O som e a dimensão psicológica
+```
+
+Formatado via markdown:\
+![](img/0xx.jpg)\
+Figura x
 
 ##### Bloco com tag ilustracao
-
+\
+Estilo:
 ```
 ---
->
+> {titulo}
+
+---
+```
+
+Exemplo em livro:\
+![](img/017.jpg)\
+Figura 17
+
+Escrita em markdown:
+```
+---
+
+> ILUSTRAÇÃO: Relação entre a metafísica e as artes da linguagem
+
+{texto}
+---
+```
+
+Formatado via markdown:\
+![](img/018.jpg)\
+Figura 18
+
+
+##### Tabelas
+\
+Estilo:
+```
+| titulo1 | titulo2 |
+| ------- | ------- |
+| texto1  | texto2  |
+| texto3  | texto4  |
+```
+
+Exemplo em livro:\
+![](img/019.jpg)\
+Figura 19
+
+Escrita em markdown:
+```
+|           |                                      |
+| --------- | ------------------------------------ |
+| Lógica    | arte de pensar                       |
+| Gramática | arte de inventar e combinar símbolos |
+| Retórica  | arte de comunicar                    |
 
 ```
 
-##### Tabelas
+Formatado via markdown:\
+![](img/020.jpg)\
+Figura 20
 
