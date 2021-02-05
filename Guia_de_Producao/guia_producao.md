@@ -1,10 +1,12 @@
+# Guia de Produção do Ebook online
+## Passos iniciais
 - Alterar extensão do livro epub em zip
 - Extrair arquivo compactado para uma pasta
 - Navegar para a pasta onde se encontra o texto do Livro.
   - No caso do Trivium, pasta 'OEBPS'
 - O arquivo 'part0009.xhtml', o capitulo 1, será aberto como estudo de caso deste guia.
 
-## converter de HTML para Markdown
+## Converter de HTML para Markdown
 - Com o arquivo xhtml aberto num nagevegador web, abra seu código fonte digitando 'Ctrl+U'
 - Tendo o código fonte exibido em tela, selecione todo seu conteúdo com 'Ctrl+A' e copie o texto com 'Ctrl+C'
 - O texto deverá ser processado por um conversor de HTML para Markdown. Como exemplo, será utilizado o site [convertsimple](https://www.convertsimple.com/convert-html-to-markdown/)
