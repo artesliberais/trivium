@@ -14,25 +14,25 @@ Sumário:
 
 [1. As artes liberais](Trivium_md/010_as_artes_liberais.md)
 
-1. Natureza e função da linguagem
+2. Natureza e função da linguagem
 
-2. Gramática geral
+3. Gramática geral
 
-3. Os termos e seus equivalentes gramaticais: definição e divisão
+4. Os termos e seus equivalentes gramaticais: definição e divisão
 
-4. Proposições e sua expressão gramatical
+5. Proposições e sua expressão gramatical
 
-5. Relações de proposições simples
+6. Relações de proposições simples
 
-6. O silogismo simples
+7. O silogismo simples
 
-7. Relações de proposições hipotéticas e disjuntivas
+8. Relações de proposições hipotéticas e disjuntivas
 
-8.  Falácias
+9.  Falácias
 
-9.  Breve sumário da indução
+10.  Breve sumário da indução
 
-10. Composição e leitura
+11. Composição e leitura
 
 Irmã Miriam Joseph (1898-1982)
 
