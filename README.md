@@ -4,9 +4,6 @@ O livro guia o leitor através de um claro e rigoroso estudo de lógica, gramát
 
 ## Sumário:
 
-[- Versão inteira em produção:](Trivium_md/xxx_inteiro_em_producao.md)
-
-\
 [Prólogo: (Carlos Nougué)](Trivium_md/001_prologo.md)
 
 
@@ -18,27 +15,27 @@ O livro guia o leitor através de um claro e rigoroso estudo de lógica, gramát
 
 [1. As artes liberais](Trivium_md/010_as_artes_liberais.md)
 
-2. Natureza e função da linguagem
+[2. Natureza e função da linguagem](Trivium_md/020_natureza_e_funcao_da_linguagem.md) (Em produção)
 
-3. Gramática geral
+3\.  Gramática geral
 
-4. Os termos e seus equivalentes gramaticais: definição e divisão
+4\.  Os termos e seus equivalentes gramaticais: definição e divisão
 
-5. Proposições e sua expressão gramatical
+5\.  Proposições e sua expressão gramatical
 
-6. Relações de proposições simples
+6\.  Relações de proposições simples
 
-7. O silogismo simples
+7\.  O silogismo simples
 
-8. Relações de proposições hipotéticas e disjuntivas
+8\.  Relações de proposições hipotéticas e disjuntivas
 
-9.  Falácias
+9\.  Falácias
 
-10.  Breve sumário da indução
+10\.  Breve sumário da indução
 
-11. Composição e leitura
+11\.  Composição e leitura
 
-Irmã Miriam Joseph (1898-1982)
+12\. Irmã Miriam Joseph (1898-1982)
 
 
 
