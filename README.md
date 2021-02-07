@@ -1,8 +1,12 @@
 
 # trivium
 O livro guia o leitor através de um claro e rigoroso estudo de lógica, gramática e retórica.
-Sumário:
 
+## Sumário:
+
+[- Versão inteira em produção:](Trivium_md/xxx_inteiro_em_producao.md)
+
+\
 [Prólogo: (Carlos Nougué)](Trivium_md/001_prologo.md)
 
 
@@ -35,6 +39,8 @@ Sumário:
 11. Composição e leitura
 
 Irmã Miriam Joseph (1898-1982)
+
+
 
 ---
 
