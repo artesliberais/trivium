@@ -17,7 +17,7 @@ O livro guia o leitor através de um claro e rigoroso estudo de lógica, gramát
 
 [2. Natureza e função da linguagem](Trivium_md/020_natureza_e_funcao_da_linguagem.md) (Em produção)
 
-3\.  Gramática geral
+[3\.  Gramática geral](Trivium_md/030_gramatica_geral.md) (Em produção)
 
 4\.  Os termos e seus equivalentes gramaticais: definição e divisão
 
