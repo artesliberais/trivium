@@ -1,47 +1,22 @@
 
-# trivium
-O livro guia o leitor através de um claro e rigoroso estudo de lógica, gramática e retórica.
+# O TRIVIUM
+O livro guia o leitor através de um claro e rigoroso estudo de **lógica, gramática e retórica**.\
+Mais importante do que o domínio estes assuntos, este livro pretende fornecer as ferramentas necessárias para o **aperfeiçoamento da inteligência**.
 
-## Sumário:
+## Quer ler online?
+ [Começar a leitura](Trivium_html/index.html)
 
-[Prólogo: (Carlos Nougué)](Trivium_md/001_prologo.md)
+## Quer ler offline?
+[Faça Download](http://libgen.rs/search.php?req=trivium&|lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+## Quer ter o livro físico?
 
-[Prefácio: (José Monir Nasser)](Trivium_md/002_Prefacio.md)
+[Compre aqui](https://www.amazon.com.br/Trivium-Miriam-Joseph/dp/8588062607)
 
-[Nota do tradutor](Trivium_md/003_nota_do_tradutor.md)
+### **Quer saber fazer uma página igual a essa com seu ebook preferido?**
+Em breve
 
-[Introdução à edição americana de 2002](Trivium_md/004_Introducao_edicao_2002.md)
-
-[1. As artes liberais](Trivium_md/010_as_artes_liberais.md)
-
-[2. Natureza e função da linguagem](Trivium_md/020_natureza_e_funcao_da_linguagem.md) (Em produção)
-
-[3\.  Gramática geral](Trivium_md/030_gramatica_geral.md) (Em produção)
-
-4\.  Os termos e seus equivalentes gramaticais: definição e divisão
-
-5\.  Proposições e sua expressão gramatical
-
-6\.  Relações de proposições simples
-
-7\.  O silogismo simples
-
-8\.  Relações de proposições hipotéticas e disjuntivas
-
-9\.  Falácias
-
-10\.  Breve sumário da indução
-
-11\.  Composição e leitura
-
-12\. Irmã Miriam Joseph (1898-1982)
+![](Trivium_html/cover.jpg)
 
 
 
----
-
-[Comprar](https://www.amazon.com.br/Trivium-Miriam-Joseph/dp/8588062607) | [Fazer Download](http://libgen.rs/search.php?req=trivium&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-
-\
-Quer ajudar na produção desta versão online? [Leia o guia](Guia_de_Producao/guia_producao.md).
